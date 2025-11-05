@@ -20,7 +20,7 @@ The core proof of this assignment is the functionality demonstrated in the video
 
 | Asset | Link |
 | :--- | :--- |
-| **Demo Video (≤ 3 min)** | **[PLACEHOLDER: Insert YouTube Link Text Here, e.g., Smart Mat App Demo]([PLACEHOLDER: YOUTUBE\_URL])** |
+| **Demo Video (≤ 3 min)** | **(https://github.com/Mr-Srinu/smart_yoga_mat/blob/main/smart_yoga_mat/Screenrecorder-2025-11-05-23-13-25-849.mp4)** |
 
 ### APK Download
 
