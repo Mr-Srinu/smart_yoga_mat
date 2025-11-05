@@ -64,13 +64,3 @@ adb shell am start -n [YOUR_PACKAGE_NAME]/[YOUR_PACKAGE_NAME].MainActivity
 ```
 
 -----
-
-## 💻 4. Author Information
-
-| Detail | Value |
-| :--- | :--- |
-| **Name** | **[YOUR FULL NAME]** |
-| **GitHub** | [@YourGitHubUsername](https://www.google.com/search?q=https://github.com/%5BYOUR_USERNAME%5D) |
-| **Contact** | [Your Email Address] |
-
------
