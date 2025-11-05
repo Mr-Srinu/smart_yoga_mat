@@ -1,9 +1,3 @@
-Certainly. A single-sequence README is excellent for submissions where conciseness and clear flow are prioritized. This version presents all essential information (Objective, Video, Installation, Author) one immediately after the other, using clear headings for scannability.
-
-Fill in the bracketed placeholders (`[PLACEHOLDER]`) with your specific project details.
-
------
-
 # 🧘 Smart Yoga Mat App Prototype (Flutter)
 
 ## 🌟 1. Project Objective and Overview
