@@ -28,6 +28,8 @@ The core proof of this assignment is the functionality demonstrated in the video
 | :--- | :--- |
 | **Latest Debug APK (Android)** | **[Download Latest APK (For Internal Testing)]([https://drive.google.com/file/d/1Ad6UHmeXwvDvO5hTJg7uEcv3lnhr_Cxl/view?usp=drive_link]))** |
 
+Download from here: "https://drive.google.com/file/d/1Ad6UHmeXwvDvO5hTJg7uEcv3lnhr_Cxl/view?usp=drive_link"
+
 -----
 
 ## 🛠️ 3. Installation and Setup Guide
