@@ -26,7 +26,7 @@ The core proof of this assignment is the functionality demonstrated in the video
 
 | Asset | Link |
 | :--- | :--- |
-| **Latest Debug APK (Android)** | **[Download Latest APK (For Internal Testing)]([https://www.google.com/search?q=https://github.com/%5BYOUR_USERNAME%5D/%5BREPO_NAME%5D/releases/download/%5BVERSION%5D/app-debug.apk](https://drive.google.com/file/d/1Ad6UHmeXwvDvO5hTJg7uEcv3lnhr_Cxl/view?usp=drive_link))** |
+| **Latest Debug APK (Android)** | **[Download Latest APK (For Internal Testing)]([https://drive.google.com/file/d/1Ad6UHmeXwvDvO5hTJg7uEcv3lnhr_Cxl/view?usp=drive_link]))** |
 
 -----
 
